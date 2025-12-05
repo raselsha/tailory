@@ -1,0 +1,3 @@
+https://almodinatailor.com/index.php/tailors/authorize
+user: admin512
+pass: admin512
